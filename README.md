@@ -2,8 +2,8 @@
 
 This simple project demonstrates the prediction of fruits with KNN_algorithm.
 
-step1 : Make dataset by examining the features of fruits say apple i.e. mass,height,width,color etc this acts as feature extraction
-step2 : read the csv dataset
+step1 : Make dataset by examining the features of fruits say apple i.e. mass,height,width,color etc this acts as feature extraction \n
+step2 : read the csv dataset \n
 step3 : use train_test_split to train the model with 75:25 dataset. 75% for training , 25% for testing.
         X_train : the description of features of fruits
         y_train : the label that acts as parameters to predict
